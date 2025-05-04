@@ -2,5 +2,4 @@ BlueSky, at the time of this commit, does not have a "scheduled posting" method.
 
 Requires
 
-pip install PyQt6
-pip install atproto
+pip install PyQt6 atproto
